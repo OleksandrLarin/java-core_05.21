@@ -1,4 +1,4 @@
-package lesson01.util;
+package lesson00.util;
 
 public class CurrencyCalc {
 }

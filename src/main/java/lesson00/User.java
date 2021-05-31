@@ -1,4 +1,4 @@
-package lesson01;
+package lesson00;
 
 public class User {
     private final int id = 10;

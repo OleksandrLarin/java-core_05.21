@@ -1,4 +1,4 @@
-package lesson02;
+package lesson01;
 
 public class ArrayExample {
     public static void main(String[] args) {

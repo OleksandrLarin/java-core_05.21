@@ -1,4 +1,4 @@
-package lesson01.calc;
+package lesson00.calc;
 
 public class MathCalc {
     /**
